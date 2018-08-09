@@ -5,4 +5,3 @@
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
 ].include? rye
- 
