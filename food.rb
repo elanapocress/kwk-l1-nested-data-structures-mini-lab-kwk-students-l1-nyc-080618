@@ -4,6 +4,6 @@ def food
     ["ham", "salami", "turkey"],
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
-].include? rye
+].include?rye
 end 
 food
