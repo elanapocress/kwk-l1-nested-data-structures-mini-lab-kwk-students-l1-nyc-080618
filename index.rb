@@ -13,7 +13,6 @@ def sandwich_request (ingredient_array)
     ["swiss", "munster", "cheddar"],
     ["mayo", "mustard", "tabasco"]
 ]
-  ingredient_array = []
 puts ingredients.include? "ingredient"
 end
 sandwich_request('rye')
