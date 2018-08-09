@@ -7,11 +7,8 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  puts ingredients [3][0].include?
-  puts ingredients [3][1]
-  puts ingredients [3][2]
-  puts ingredients 
-end
+  
+ end 
 # example city_info hash
 cities = {
   :new_york => { 
