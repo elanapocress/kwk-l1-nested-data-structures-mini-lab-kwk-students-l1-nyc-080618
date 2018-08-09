@@ -21,4 +21,4 @@ cities = {
   }
 }
 
-cities [:new_york][:population]
+cities[:new_york][:population]
