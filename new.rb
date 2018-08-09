@@ -21,5 +21,5 @@ def city_populations(cities)
     :website => "http://www.cityofchicago.org/"
   }
 }
-cities[:new_york][:population] + cities[:los_angeles][:population] +cities[:miami][:population] +cities[:chicago][:population]
+cities[:new_york][:population] += cities[:los_angeles][:population] += cities[:miami][:population] += cities[:chicago][:population]
 end
