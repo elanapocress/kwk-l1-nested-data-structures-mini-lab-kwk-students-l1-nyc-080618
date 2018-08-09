@@ -1,1 +1,1 @@
-["Cat", "Dog"].include? Dog
+["Cat", "Dog"].include? "Dog"
