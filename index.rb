@@ -7,7 +7,7 @@ ingredients = [
 ]
 
 def sandwich_request(ingredients, order) 
-  puts ingredients [3][0]
+  puts ingredients [3][0].include?
   puts ingredients [3][1]
   puts ingredients [3][2]
   puts ingredients 
