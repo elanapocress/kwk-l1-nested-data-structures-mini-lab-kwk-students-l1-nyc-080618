@@ -16,7 +16,7 @@ def sandwich_request (ingredient_array)
   ingredient_array = []
 puts ingredients.include? "ingredient"
 end
-sandwich_request("tofu")
+sandwich_request("rye")
 
 # example city_info hash
 cities = {
