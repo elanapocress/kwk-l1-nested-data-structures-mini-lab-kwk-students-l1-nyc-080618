@@ -1,1 +1,0 @@
-["Cat", "Dog"].include? "Dog"
