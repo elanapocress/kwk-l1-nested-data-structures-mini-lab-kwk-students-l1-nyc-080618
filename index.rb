@@ -6,7 +6,7 @@ ingredients = [
     ["mayo", "mustard", "tabasco"]
 ]
 []
-def sandwich_request(ingredients, order) 
+def sandwich_request 
   ingredients 
   if 
  end 
