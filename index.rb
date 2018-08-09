@@ -6,10 +6,18 @@ ingredients = [
     ["mayo", "mustard", "tabasco"]
 ]
 []
-def sandwich_request 
-  ingredients 
-  if 
- end 
+def sandwich_request (ingredient_array)
+  ingredients = [
+    ["rye", "sourdough", "baguette"],
+    ["ham", "salami", "turkey"],
+    ["swiss", "munster", "cheddar"],
+    ["mayo", "mustard", "tabasco"]
+]
+  ingredient_array = []
+puts ingredients.include? "ingredient"
+end
+sandwich_request("tofu")
+
 # example city_info hash
 cities = {
   :new_york => { 
